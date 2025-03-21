@@ -135,7 +135,7 @@ Here are the common security practices and tools I follow to secure cloud infras
   I use security groups to control inbound and outbound traffic and VPCs to isolate cloud resources within a private network.
 
 
-  # Answer to the Question No. 04:
+# Answer to the Question No. 04:
 
 
   To stay updated with the latest developments in DevOps and Cloud technologies, I regularly:
